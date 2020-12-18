@@ -1,0 +1,2 @@
+/home/eapc/Documents/Workspace/energyplus/Temixco.epw
+/home/eapc/Documents/Workspace/energyplus/EMSRef.idf
